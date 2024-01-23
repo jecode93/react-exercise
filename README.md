@@ -1,7 +1,5 @@
 <h3 align="center"><b>React.js API Exercise</b></h3>
 
-<p align="center">This is a simple react application that call an API and render the data with a design identical to the one below. While the data are loading, show a spinner. And use font Verdana.</p>
-
 <a name="readme-top"></a> 
 
 # 📗 Table of Contents
@@ -21,6 +19,15 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
+
+## Get Started
+<p align="center">This simple react application calls an API and renders the data with a design identical to the one below. While the data are loading, show a spinner. And use font Verdana.</p>
+
+### Design provided
+<img width="607" alt="Screen Shot 2024-01-22 at 10 01 49 PM" src="https://github.com/jecode93/react-exercise/assets/45808742/fa63060e-6d1f-426f-86ab-a4919d10151d">
+
+### Solution provides
+![Screen Shot 2024-01-22 at 10 04 25 PM](https://github.com/jecode93/react-exercise/assets/45808742/4bdaaa60-153b-41a1-ba42-b9eeddfafe21)
 
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -61,9 +68,9 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run and modify this project you need:
+To run and modify this project you need the following:
 
-- gitHub account;
+- GitHub account;
 - git installed on your OS;
 - VSCode (or another code editor);
 - modern browser (supporting HTML5 and CSS3) is highly recommended;
@@ -71,7 +78,7 @@ In order to run and modify this project you need:
 
 ### Setup
 
-Login to your GitHub account. Clone this repository to your desired folder:
+Log in to your GitHub account. Clone this repository to your desired folder:
 
 > cd my-folder
 > git clone https://github.com/jecode93/react-exercise.git
@@ -122,16 +129,16 @@ Contributions, issues, and feature requests are welcomed!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project just star it!
+If you like this project just give it a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Achilleas Tsoumitas for the opportunity tto work on this awesome project.
+I would like to thank Achilleas Tsoumitas for the opportunity to work on this awesome project.
 
-I will be grateful for all future project.
+I will be grateful for all future projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
