@@ -57,7 +57,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live demo]()
+- [Live demo](https://reactjs-exo.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +92,7 @@ To install all dependencies run the following command:
 
 ### Usage
 
-To run the app in the development mode:
+To run the app in the development mode use this command:
 > npm run dev
 
 Open [http://localhost:5173/](http://localhost:5173/) to view it in your browser.
